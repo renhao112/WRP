@@ -11,7 +11,7 @@ For the inner parareal iteration, we only take the inner iteration number s=1,2 
 
 We use Matlab to test our algorithm, and all the data generated is uploaded.
 
-## The second example is for a more complicated semi-linear parabolic equation
+## The second example is for a more complicated Advection-diffusion-reaction equation
 
 We utilize the finite element method to discrete the space, the linear theta method to discrete the time.
 
