@@ -15,4 +15,4 @@ We use Matlab to test our algorithm, and all the data generated is uploaded.
 
 We utilize the finite element method to discrete the space, the linear theta method to discrete the time.
 
-We use the Python package NGsolve to implement this example, and all the data generated is also uploaded.
+We use the Python package NGsolve via Jupyter notebook to implement this example, and all the data generated is also uploaded.
