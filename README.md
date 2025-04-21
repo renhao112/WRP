@@ -9,10 +9,10 @@ For the outer WR iteration, we use the quasi-Newton WR method, which can be redu
 
 For the inner parareal iteration, we only take the inner iteration number s=1,2 since there is almost no difference for the higher s.
 
-We use Matlab to test our algorithm, and all the data generated is uploaded.
+We use Matlab to test our algorithm, all the data generated and the codes for plotting figures in the paper is uploaded.
 
 ## The second example is for a more complicated Advection-diffusion-reaction equation
 
 We utilize the finite element method to discrete the space, the linear theta method to discrete the time.
 
-We use the Python package NGsolve via Jupyter notebook to implement this example, and all the data generated is also uploaded.
+We use the Python package NGsolve via Jupyter notebook to implement this example, all the data generated and the codes for plotting figures in the paper is also uploaded.
